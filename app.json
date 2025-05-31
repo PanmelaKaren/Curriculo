@@ -13,7 +13,8 @@
     },
     "android": {
       "package": "com.panmelakarenorg.curriculo"
-    }
+    },
+    "owner": "panmelakaren-org"
   },
   "android": {},
   "ios": {},
