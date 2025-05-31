@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo": "^53.0.9",
+    "nativewind": "^4.1.23",
+    "@expo/vector-icons": "^14.1.0",
+    "expo-updates": "~0.28.13"
+  }
+}

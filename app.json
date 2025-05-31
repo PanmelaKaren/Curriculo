@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8e2231db-92f4-495d-998f-379fac061415"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8e2231db-92f4-495d-998f-379fac061415"
+    },
+    "android": {
+      "package": "com.panmelakarenorg.curriculo"
+    }
+  },
+  "android": {},
+  "ios": {},
+  "owner": "panmelakaren-org"
+}
